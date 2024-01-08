@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&family=Poppins:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Merriweather:wght@300;400;700;900&display=swap');
+
+#banner{
+    width: 100%;
+
+}
+
+.banner_container{
+    width: 1320px;
+    margin: 0 auto;
+    background: url(resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+
+
+}  
+.banner_img{
+    width: 100%;
+    height: 100%;
+
+}
+
+
+
+
+.banner_text h5{
+    color: red;
+    font-size: 32px;
+    font-weight: 400;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    margin-bottom: 16px;
+    padding-top: 177px;
+    padding-left: 130px;
+    
+
+}
+.banner_text h1{
+    width: 632px;
+    font-size: 72px;
+    font-weight: 900;
+    font-family: 'Merriweather', serif;
+    padding-left: 390px;
+    padding-bottom: 177px;
+    text-align: center;
+
+}
+.container{
+    width: 1320px;
+    margin: 0 auto;
+}
+.middil_part_text{
+    width: 100%;
+    text-align: center;
+} 
+.middil_part_text h2{
+    text-align: center;
+    color: red;
+    margin-top: 120px;
+    font-size: 88px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+   
+}
+.middil_part_text p{
+    color: red;
+    font-size: 32px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    text-align: center;
+    line-height: 48px;
+
+}
+.middil_part_text h4{
+    font-size: 48px;
+    font-weight: 700;
+    font-family:'Inter', sans-serif ;
+    text-align: center;
+    line-height: 16px;
+}
+.middil_part_text img{
+    width: 800px;
+    margin-bottom:120px;
+}
+.party_container{
+    width: 1320px;
+    margin: 0 auto;
+    background: url(resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.party_img{
+    width: 100%;
+    height: 100%;
+}
+
+.party_text h3{
+    color: #ffff;
+    width: 602px;
+    font-size: 64px;
+    font-weight: 900;
+    font-family: 'Merriweather', serif;
+    padding-top: 126px ;
+    margin-left: 126px;
+    line-height: 88px;
+}
+.party_text p{
+    color: #ffffffe2;
+    font-size: 18px;
+    font-weight: 400;
+    font-family:'Inter', sans-serif ;
+    margin-left: 126px;
+    width: 697px;
+    line-height: 30px;
+}
+.party_text button{
+    
+    color: #ffff;
+    font-size:20px;
+    font-family: 'Inter', sans-serif ;
+    font-weight:700 ;
+    background: no-repeat;
+    margin-left: 158px;
+    margin-bottom: 142px;
+}
+.place_container{
+    width: 1320px;
+    margin: 0 auto;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+
+    ;
+  
+}
+.time{
+    margin-top: 120px;
+    
+}
+.time p{
+    color: #070211;
+    font-size: 32px;
+    font-family: 'Inter', sans-serif ;
+    font-weight:600 ;
+    text-align: center;
+    
+
+}
+.importen{
+    color: red;
+}
+.time button{
+    width: 160px;
+    height: 67px;
+    background: orangered;
+    border-radius: 20px;
+    color: #ffff;
+    font-size: 20px;
+    font-family:'Inter', sans-serif  ;
+    font-weight:700 ;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    
+}
